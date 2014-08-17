@@ -1,0 +1,45 @@
+
+.nks-btn {
+	display: inline-block;
+	margin: 0px 5px 5px 0;
+	width: 50px;
+	height: 50px;
+	padding: 3px;
+	background-image: url('nks-social.png');
+	border-radius: 10px;
+}
+.nks-facebook{
+	background-position: 778px -2px;
+	background-color: #3B5976;
+}
+.nks-facebook:hover{ 
+	background-color: #4e69a2;
+}
+.nks-google {
+	background-position: 660px -2px;
+	background-color: #E74C3C;
+}
+.nks-google:hover {
+	background-color: #e95d4f;
+}
+.nks-linkedin {
+	background-position: 598px -4px;
+	background-color: #007FB1;
+}
+.nks-linkedin:hover {
+	background-color:#198bb8;
+}
+.nks-twitter {
+	background-position: 300px -2px;
+	background-color: #00ACED;
+}
+.nks-twitter:hover {
+	background-color: #19b4ee;
+}
+.nks-tumblr {
+	background-position: 355px -2px;
+	background-color: #2C4762;
+}
+.nks-tumblr:hover {
+	background-color: #415971;
+}
