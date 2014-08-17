@@ -1,17 +1,18 @@
-# Social Media Share plugin
+# Social Media Share Plugin
 ======================
 
-A simple and easy to use Social Media Share plugin. 
+A simple and easy to use Social Media Share Plugin. 
 
----
+## DEMO
+--------
 
-View the [DEMO](http://demos.nitishkumarsingh.com/share-plugin/).
+[Social Media Share plugin](http://demos.nitishkumarsingh.com/share-plugin/).
 
 
 ## HOW TO USE
 ---------------
 
- #### HTML 
+#### HTML 
 
  ```
  	<div class="nks-wrap">
@@ -31,7 +32,7 @@ View the [DEMO](http://demos.nitishkumarsingh.com/share-plugin/).
 
  ```
 
-  #### CSS
+#### CSS
 
   Add this in css file.
 
@@ -134,7 +135,7 @@ if(social) {
 
  ```
 
- ####  Facebook Meta tags 
+####  Facebook Meta tags 
 
  Add this meta tag into head section.	
  
@@ -145,7 +146,7 @@ if(social) {
     <meta property="og:description" content="Page Content" />
  ```
 
- ####  Google+ Meta tags 
+####  Google+ Meta tags 
 
  Add this meta tag into head section.	
  
