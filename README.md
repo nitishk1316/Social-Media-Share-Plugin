@@ -9,6 +9,22 @@ A simple and easy to use Social Media Share Plugin.
 [Social Media Share plugin](http://demos.nitishkumarsingh.com/share-plugin/).
 
 
+#### Current Version: 1.0.0:
+-----------------------------------
+1. Facebook 
+2. Twitter
+3. Google Plus
+4. Linkedin
+5. Tumblr
+
+
+#### Version 1.1.0 will include:
+-----------------------------------
+1. Buffer button
+2. Pinterest button
+
+
+
 ## HOW TO USE
 ---------------
 
