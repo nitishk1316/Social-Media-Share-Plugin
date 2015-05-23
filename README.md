@@ -6,7 +6,7 @@ A simple and easy to use Social Media Share Plugin.
 ## DEMO
 --------
 
-[Social Media Share plugin](http://demos.nitishkumarsingh.com/share-plugin/).
+[Social Media Share plugin](http://www.nitishkumarsingh.com/demos/share-plugin/).
 
 
 #### Current Version: 1.0.0:
